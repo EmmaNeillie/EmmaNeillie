@@ -17,7 +17,8 @@ Algorithms for mapping and visualizing HUD data in real time — combining signa
 A Raspberry Pi rover controlled using force-sensing resistors (FSRs) and real-time IIR filtering for responsive control.
 
 📌 **Real-Time-CAN-Telemetry-Application**  
-A WPF desktop application to display live CAN telemetry data — integrating real-time systems with a clean user interface.
+A WPF desktop application to display live CAN telemetry data — integrating real-time systems with a clean user interface.**
+
 ---
 
 ## 🛠️ Tech & Tools I Use
