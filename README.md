@@ -3,22 +3,22 @@
 University of Glasgow 
 
 ---
-### 🔧 Featured Projects
+### Featured Projects
 
 Here are a few of my pinned repositories:
 
-📌 **Custom-Battery-Management-System**  
+- **Custom-Battery-Management-System**  
 Embedded battery management firmware for an FS vehicle applications — demonstrating safety, balancing, and low-level power control.
 
-📌 **FSR-Controlled-Rover**  
+- **FSR-Controlled-Rover**  
 A Raspberry Pi rover controlled using force-sensing resistors (FSRs) and real-time IIR filtering for responsive control.
 
-📌 **Real-Time-CAN-Telemetry-Application**  
-A WPF desktop application to display live CAN telemetry data — integrating real-time systems with a clean user interface.
+- **Real-Time-CAN-Telemetry-Application**  
+A WPF desktop application to display live CAN telemetry data — integrating real-time systems with a custom UI.
 
 ---
 
-## 🛠️ Tech & Tools I Use
+## Tech & Tools Used
 
 | Area | Technologies |
 |------|--------------|
